@@ -2,7 +2,7 @@ import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
-import About from './about'
+import About from './About'
 
 const data: string[] = ["a", "b", "c", "d"]
 //น้องคนข้างหลังน่ารักที่สุดฮะ 
